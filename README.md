@@ -22,10 +22,16 @@ My academic background is in **Data Science and Analytics**, where I worked on m
 
 **Analytics:** SQL • Python • R • Excel • Power BI • Tableau • Alteryx
 
-**Machine Learn**
+**Machine Learning:** Scikit-learn • TensorFlow • PyTorch • NLP
 
-- 
-<!---
-Neko0530/Neko0530 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**AI:** LangChain • LangGraph • RAG • LLMs • Prompt Engineering
+
+### 🚀 What You'll Find Here
+
+This GitHub is a collection of **practical, end-to-end projects** rather than just code examples. I focus on projects that start with a business question, work through the data, and turn the analysis into something useful.
+
+### 📫 Connect
+
+**LinkedIn:** [linkedin.com/in/surajnarayanan0501](https://www.linkedin.com/in/surajnarayanan0501/)
+
+I'm always interested in building projects that combine **analytics, machine learning, AI, and real-world business problems**.
