@@ -1,8 +1,28 @@
--  👋 Hi, I'm Suraj Narayanan Kutty, also known as @Neko0530. I'm a recent graduate in Data Science and Analytics, actively seeking opportunities to demonstrate my knowledge and skills.
--  🧐 My interests lie in Data Mining and Data Visualization.
--  🌱 Currently, I'm learning Google Tableau, Microsoft Power BI, and Microsoft Azure.
--  📫 You can reach me on LinkedIn at https://www.linkedin.com/in/surajnarayanan0501/.
--   Throughout my academic journey, I've focused on Machine Learning algorithms and Data Visualization projects, especially in my Master's thesis, which was a biomedical text mining project. I received high praise for tackling a substantial project and delivering quality work. Feel free to review my profile for more details."
+# 👋 Hi, I'm Suraj Narayanan Kutty
+
+**Data Analyst | SQL • Python • Power BI • Machine Learning • AI**
+
+I use **data, analytics, and technology to solve practical business problems**. My GitHub is where I document that work through hands-on projects, SQL analysis, dashboards, machine learning experiments, and AI applications.
+
+### 🧐 What I Work On
+
+* **Data Analytics & SQL** — querying, transforming, and analyzing real-world datasets
+* **Business Intelligence** — Power BI, Tableau, dashboards, and reporting
+* **Python & Machine Learning** — predictive modelling, data mining, and NLP
+* **AI & LLM Applications** — RAG, LangChain, LangGraph, and applied AI
+* **Banking Analytics** — customer, account, transaction, and operational data
+
+### 💼 Professional Background
+
+I have experience in **banking operations and analytics**, working with customer and transaction data, reporting, Excel-based analysis, and **UAT coordination for Virtual Account Management (VAM)** and banking systems.
+
+My academic background is in **Data Science and Analytics**, where I worked on machine learning, data visualization, and NLP projects, including a master's thesis focused on **biomedical text mining**.
+
+### 🛠️ Tech Stack
+
+**Analytics:** SQL • Python • R • Excel • Power BI • Tableau • Alteryx
+
+**Machine Learn**
 
 - 
 <!---
